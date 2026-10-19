@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Candidate in Economics, Indian Institute of Management Ahmedabad
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false
 
