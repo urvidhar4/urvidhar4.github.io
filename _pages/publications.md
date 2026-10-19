@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-## Working Papers
+## Work in Progress
 
 **Reservation to Representation: Lasting Impacts of Female Quotas in Urban Local Bodies**
 
